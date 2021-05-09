@@ -1,0 +1,86 @@
+.gal_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.gal_mainDiv img {
+    width: 70%;
+}
+
+.gal_mainDiv hr {
+    width: 230px;
+}
+
+.gal_mainDiv h5,
+.gal_mainDiv p {
+    margin-left: 20px;
+}
+
+.review_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.review_head i {
+    float: right;
+}
+
+.review_text span {
+    color: deeppink;
+}
+
+.quotes_li {
+    margin-top: 15px;
+    border-radius: 30px;
+}
+
+.quotes_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.quotes_li img {
+    border-radius: 25px;
+}
+
+.quotes_li p {
+    margin-top: 10px;
+}
+
+body {
+background: linear-gradient(
+red 40%, pink 60%) ;
+color: blue;
+    text-align: center;
+    font-family: monospace;
+}
+
+#txtcool {
+    font-weight: bold;
+    color: yellow;
+    font-family: cursive;
+}
+
+#txthard {
+    font-weight: bold;
+    color: orangered;
+    font-family: cursive;
+}
+
+#txtjoy {
+    font-weight: bold;
+    color: orange;
+    font-family: cursive;
+}
+
+#h3name {
+    font-family: sans-serif;
+    font-weight: 900;
+    color: purple;
+}
